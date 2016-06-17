@@ -2,6 +2,7 @@ name: deanozar
 favicon: null
 layout_spectrum: 0.08663886645808816
 typography_spectrum: 0.06410300359129906
+title: About me
 cta:
   domain: null
   bucket: null
